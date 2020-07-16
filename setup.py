@@ -7,9 +7,9 @@ setup(
   description = 'A quick reddit scrapper to get subreddits and submissions (PRAW doesn`t provide a good solution for that)',
   author = 'independent.variable2',
   author_email = 'independent.variable2@gmail.com',
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
-  keywords = ['Reddit', 'subreddit', 'submission', 'PRAW'],   # Keywords that define your package best
+  url = 'https://github.com/independentvariable2/r_scrap',  
+  download_url = '',
+  keywords = ['Reddit', 'subreddit', 'submission', 'PRAW'],
   install_requires=[
           'certifi',
           'idna',
